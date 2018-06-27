@@ -13,8 +13,15 @@
 | W3C1 | Creativity | all creativity videos | Blown to bits chapter 2 + 2 quizzes! | | lab 2.3, 2.4 + one project |
 | W3RS | see below |
 | W3C2 | Programming paradigms | all programming paradigms videos and quizzes | | HW1 | Labs 2.1 and 2.2 |
-| W4C1 | Lists | All lists videos | B2b chapter 4 | | Labs 3.1 and 3.2|
+| W4C1 | Algorithms 1 | All videos | B2b chapter 4 | | Labs 3.1 and 3.2|
 | W4RS | see below |
+| W4C2 | Algorithms 2 | All videos | | | Labs 5.1 and 5.2|
+| W5C1 | Internet 1 | All videos | B2b chapter 5 and conclusion | | Labs 4.1 and 4.2|
+| W5RS | see below |
+| W5C2 | Internet 2 | All videos | | | Labs 4.3, 4.4 and 4.5|
+| W6C1 | Global impacts of computing | All videos | B2b appendix | HW2 | Midterm project|
+| W6RS | see below |
+| W6C2 | Midterm exam |
 
 ## W1RS
 
@@ -112,3 +119,55 @@ terms might indicate they belong to a minority ethnic or religious
 group? Or of all the people who are advocating that women should have an
 equal right to education (e.g., Malala Yousafzai)? What should your
 policy be around what search data is released and to whom?
+
+## W5RS
+
+1. There's a section heading entitled "Having a Good System Doesn't Mean
+People Will Use It", and it talks about the challenge to get the masses
+to use encryption on a regular basis. We all use it for our Internet
+commerce, because it's built in to the web browsers (ever notice the
+lock symbol to the left of the "https" window above when you're doing
+online shopping?). Would you advocate that all email systems incorporate
+encryption to be on "by default", even if it meant that the email of
+"dumb bad guys" (who weren't encrypting their email) was harder to
+monitor? (I.e., do the benefits outweigh the problems?)
+2. Blown to Bits says:
+The risks of insecure encryption today arise from three forces acting in
+consort: the high speed at which news of insecurities travels among
+experts, the slow speed at which the inexpert recognize their
+vulnerabilities, and the massive scale at which cryptographic software
+is deployed.
+Of the three "forces" that are continually preventing everyone from
+having the most updated encryption software, which is the dominant
+reason? What can we as a society do to address it?
+3. The last two sentences in Blown to Bits are: “The legal and economic
+   (and technical -Dan) decisions being made today, not just about bits
+but about everything that depends on bits, will determine how our
+descendants will lead their lives. The way the bits illuminate or
+distort the world will shape the future of humanity.”. Are you
+optimistic or pessimistic about the way things will play out, for
+families, friends and society? Will cybercriminals become more
+dangerous, our physical and digital mistakes captured more frequently
+and instantly shared with a billion people and archived forever, and our
+personal freedoms continued to be stripped away so that free speech and
+thought will be a thing of the past? Or will it give “the good guys”
+even more tools to fight crime, help root out government oppression and
+police brutality (via cell phones and body cameras), and give voice to
+the unheard, views to the unseen, and representation to the
+underrepresented.
+4. Andrew Blum talks about wanting to peek below the abstraction of the
+“cloud” and “Internet” to its physical underpinnings. He discovers it’s
+just copper, fiber, insulation, and a whole lot of people, machinery,
+buildings, boats and ocean floor. The people involved are engineers,
+ship captains, divers, “jewelers”, and local laborers. What was the most
+surprising thing you learned from the video?
+
+## W6RS
+
+1. Where do you fall on the Net Neutrality debate (for or against) and why?
+One of the engineering triumphs of the architectural design of the
+2. Internet is that "the Internet of yesterday did not focus on the today
+of yesterday". Name another system (that has survived the test of time
+and societal / technological transformations in ways the designers
+couldn't have imagined) and describe what aspects of its design made it
+so able to age gracefully.
