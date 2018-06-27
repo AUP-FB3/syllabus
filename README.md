@@ -23,6 +23,20 @@
 | W6RS | see below |
 | W6C2 | Midterm exam |
 
+| W7C1 | Data | All videos | Data and algorithmic complexity articles | | Labs 3.4 and 3.5 |
+| W7RS | see below |
+| W7C2 | Algorithmic complexity  | all videos | | | Labs 5.3 and 5.4 |
+| W8C1 | Global impact 2 | All videos | all stories in these two classes | | Lab 6.1 |
+| W8RS | see below |
+| W8C2 | Global impact 3 | all videos | | | Lab 6.2 |
+| W9C1 | Saving the world with computing | All videos | all stories | | Lab 6.3 and a project |
+| W9RS | see below |
+| W9C2 | ? |
+| W10C1 | Recursion 1 | All videos | all stories of the two classes | | Labs 7.1and 7.2 |
+| W10RS | see below |
+| W10C2 | Recursion 2 | All videos |  | | Labs 8.1 and 8.2 |
+| W10C2 | ? |
+
 ## W1RS
 
 1. To explain Abstraction, Professor Harvey used the automobile as an
@@ -171,3 +185,135 @@ of yesterday". Name another system (that has survived the test of time
 and societal / technological transformations in ways the designers
 couldn't have imagined) and describe what aspects of its design made it
 so able to age gracefully.
+
+## W7RS
+
+1. The "Web 2.0 Summit" talked about how data (here, mostly social data) was
+revolutionizing the music and television industry. What other industry
+do you think is being revolutionized by data, and why?
+2. In your own life, have you ever fallen into one of the ten data analysis
+pitfalls? What were you working on, and which one was it?
+3. What was the most surprising thing you learned from the visualizations
+presented by Hans Rosling in his TED talk?
+4. One of the powerful ideas in the article, as you'll see in this week's
+videos as well, is that NP-complete problems are very special. If you
+solve one, you solve them all (and in fact all problems in NP as well).
+Are there other situations you've ever seen with this kind of tight
+interdependence, i.e., if one falls, the others fall too? Here are some
+examples: if the roof leaks in any of the houses in a new huge
+development of thousands of houses, there's high probability that they
+all will soon have leaks too. Inventing a way to recycle envelopes can
+also help with recycling cardboard, card stock, mixed paper, etc. If one
+zombie finds a way into your house during the Zombie Apocalypse, all the
+others zombies can climb through that hole and get in too. That kind of
+thing.
+6. What was the most illuminating, or surprising thing you learned from the
+article?
+
+## W8RS
+
+1. In the movie The Imitation Game, there was a very tense dramatic moment
+when the British team had just proved they could crack the “unbreakable”
+Enigma encryptions with the Bombe but immediately realized they couldn’t
+let the Germans know. Their logic was that if the Germans knew their
+messages had been compromised, they would change the way they encrypted
+them, sending Turing’s team back to the drawing board. (This Wikipedia
+article on the Cryptoanalysis of the EnigmaOpens in new window indicates
+that the Germans did not know, for the most part, that their messages
+were being seen: ) The Allies had to pick and choose when they would use
+the decrypted information and act on it (offensively or defensively) so
+as not to give away their hand. In the movie, it meant that they
+couldn’t stop an attack that was going to kill one of the relatives of
+one of the scientists. It must have been heartbreaking to have to accept
+losses from secret attacks that could be prevented. The question is: Are
+there other situations where you’ve seen heart-wrenching tradeoffs like
+that? How do they handle it? How would YOU have handled a situation like
+that?
+2. In World War II, special-purpose computers were used for ballistics
+calculations and decoding messages. Later computers were used as part of
+Nuclear Attack Warning Systems, for weapon simulations, and to support
+unmanned weapons (e.g., Drones). More recently, they have been used for
+cyber-attacks (breaking into critical government and corporate systems)
+and cyber-defense (to prevent such attacks). What do you think the near
+future holds for computers and warfare? Will we see Terminator-style
+autonomous killing machines? (Note that many Artificial Intelligence
+researchers recently signed an open letter on autonomous weaponsOpens in
+new window promising not to go down that path.) Or will it be fought
+virtually, with fewer human lives lost, but more cyber-attacks that (for
+example) take down national grids? Or something else altogether?
+3. Juan Enriquez, in "Your Online Life, Permanent as a Tattoo", argues
+   that your digital footprint is as permanent as a tattoo, and even
+more so, because it will probably outlive you. He worries about a world
+where people will link your photo to your desires and creepily offer you
+a black dress in a store (having found out covertly you liked them based
+on your face and their ability to link to that your social profile). He
+predicts we'll spend our lives pursuing a "clean" reputation like
+Sisyphus, warns us not to look into our friends' and family's past like
+Orpheus, suggests that we stop fiddling with trivial social media
+triflings like Atalanta, and not fall too much in love with ourselves
+like Narcissus. Which of the predictions / warnings speaks the most to
+you, that you agree with the most? That is, which of the suggestions
+would you share first with a younger cousin coming online to social
+media for the first time?
+4. Alessandro Acquisti, in his "What Will A Future Without Secrets Look
+Like?", paints quite a dystopian picture of the future if we do nothing
+and continue on our current path. Augmented Reality devices (like Google
+Glass) will allow people to instantly grab very private (e.g., social
+security numbers) information from you using just a quick glimpse of you
+from their always-on cameras. Employers will prejudge applicants
+abilities based on their personal life (that is a little bit too
+public). Marketers will be more effective at selling you things by
+having virtual models whose faces are taken from composites of your
+friends shown in personalized ads. People who normally would care about
+revealing private information can be made not to care by distracting
+them for fifteen seconds. He suggests a call to action to take back our
+privacy by shaking us awake, recommending we use encryption software,
+and fight to control our personal information. Is his argument
+convincing? If you're sold, which of the dystopian futures or logical
+points was the most surprising, or spoke the most to you? If you're
+still doubtful, and aren't willing to pay the cost (e.g., advocacy, time
+to install and use encryption software) for your privacy, what would it
+take to convince you to act, and be less apathetic?
+
+## W9RS
+
+1. Samy Kamkar highlights three ways the Internet is vulnerable. Which do
+you think is the most vulnerable and/or would cause the most
+catastrophic damage if attacked, why do you feel that way, and how would
+you defend it?
+2. How do you feel about the advancements in Artificial Intelligence that
+are allowing computers to continue to be better than humans in so many
+activities? Do you believe (as many do) that machines will eventually
+challenge us (and in the worst case, take over), or will they hit an
+upper-limit and never develop to that point?
+
+## W10RS
+
+1. Self-driving cars open up an incredible ethical can of worms,
+   legally. When an accident occurs (as it did here), who should bear
+the legal risk -- the hardware manufacturer, software manufacturer,
+software architect, or owner of the vehicle?
+Assuming these cars would be the same cost as conventional cars, where
+do you fall on the adoption scale for this technology, and why? Are you
+so enthusiastic about this technology that you'd be waiting outside
+2. Google offices overnight to be the first on your block to have one? Or
+are you someone who loves driving so much (and/or doesn't want any part
+of this whole "trust your life to algorithms") that you'd never get one?
+3. We saw a car in the video "take advantage" of the "kindness of
+self-driving cars" (ala Gone with the Wind) by cutting right in the
+middle of a pair of them. What other potential problems do you see
+(vandalism, grand theft auto, drivers taking advantage, taxi drivers out
+of work, etc.) once our streets are filled with fully autonomous
+self-driving cars and taxis, say with no steering wheel at all?
+4. Opponents of game solving have likened it to the cutting down of
+   trees in the Amazon. They feel it's a terrible thing for mankind to
+do, an act that disturbs the pristine law of nature in some sense, and
+removes the mystery from the games. Proponents speak of the possibility
+for these systems to teach players how to play better, and be able to
+watch two humans play and share with them a post-game analysis of all
+the mistakes that were made. How do you feel about it?
+5. Go was always thought of as a game that machines would never be able to
+play at championship level, given how big it is and how hard it is to
+capture the "intuition" that top players leverage when playing it. It
+seems that is being proved wrong. What human activity will replace Go as
+one of the hardest things for computers to do?
