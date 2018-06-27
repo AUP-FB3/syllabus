@@ -22,7 +22,6 @@
 | W6C1 | Global impacts of computing | All videos | B2b appendix | HW2 | Midterm project|
 | W6RS | see below |
 | W6C2 | Midterm exam |
-
 | W7C1 | Data | All videos | Data and algorithmic complexity articles | | Labs 3.4 and 3.5 |
 | W7RS | see below |
 | W7C2 | Algorithmic complexity  | all videos | | | Labs 5.3 and 5.4 |
