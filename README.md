@@ -5,16 +5,12 @@
 | Class        | Topics           | Before | After/during | Assignments  | Lab
 | -------------:|:-------------:|:-------:|:-----:|:-------------:|:------:|
 | W1C1 | Introduction, Slack and Snap! | | watch Welcome to BJC, Key to Success in BJC, Program or Be Programmed, Snap Lab1 videos ; read Introduction to Abstraction + following quiz! | | Lab 1.1 - finish at home |
-| W1RS | 1. To explain Abstraction, Professor Harvey used the automobile
-as an example, with its many layers of complexity, and the "two pedals,
-one steering wheel" interface that has stood the test of time. Imagine
-you were teaching abstraction to a ten-year-old. Describe another
-non-computing innovation, its abstraction layers, and at least one of
-its interfaces (indicate whether it has changed over time or not).
-2. Abstraction allows us to focus on the important aspects of something and
-put the details aside for later. Describe a process where you utilize
-abstraction: what parts are the high-level ideas and what parts are the
-low-level details you "abstract away"? What is the the crossover point
-where you stop talking about the abstract concepts and get around to
-talking about the details?
-3. Are there ever situations where we don't use Abstraction? Where are the details that are so important that we cannot afford to miss them or hide them? |
+| W1RS | |
+| W1C2 | Abstraction | all abstraction videos | | | Help with Lab 1.1, Lab 1.2 |
+| W2C1 | Functions | all functions videos | read Blown to bits chapter 1 + quiz! | | Labs 1.3 and 1.5 + 1 project |
+| W2RS | |
+| W2C2 | More abstractions | all abstraction revisited videos | finish quizzes for labs | | Labs 2.1 and 2.2 |
+| W3C1 | Creativity | all creativity videos | Blown to bits chapter 2 + 2 quizzes! | | lab 2.3, 2.4 + one project |
+| W3RS | |
+| W3C2 | Programming paradigms | all programming paradigms videos and quizzes | | HW1 | Labs 2.1 and 2.2 |
+| W4C1 | | | Programming paradigm discussions (for RS) and reading | | |
