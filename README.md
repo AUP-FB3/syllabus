@@ -31,10 +31,18 @@
 | W9C1 | Saving the world with computing | All videos | all stories | | Lab 6.3 and a project |
 | W9RS | see below |
 | W9C2 | ? |
-| W10C1 | Recursion 1 | All videos | all stories of the two classes | | Labs 7.1and 7.2 |
+| W10C1 | Recursion 1 | All videos | all stories of the two classes | | Labs 7.1 and 7.2 |
 | W10RS | see below |
 | W10C2 | Recursion 2 | All videos |  | | Labs 8.1 and 8.2 |
-| W10C2 | ? |
+| W11C1 | Lambdas and HOFs | All videos | all stories of the two classes | | Labs 8.3 and 8.4 |
+| W11RS | see below |
+| W11C2 | Artificial Intelligence | All videos |  | HW 3 | |
+| W12C1 | Human computer interaction | All videos | all stories | HW 4 | |
+| W12RS | see below |
+| W12C2 | ? |
+| W13C1 | ? |
+| W13RS | ? |
+| W13C2 | ? |
 
 ## W1RS
 
