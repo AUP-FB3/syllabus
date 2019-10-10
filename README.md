@@ -10,6 +10,11 @@ logic and artificial intelligence in order to better understand the
 benefits and risks found in machines, technology and bots that are an
 inseparable part of our modern lives.
 
+## Material
+
+There is no text book required but watching and reading assignments will
+be given every class.
+
 ## Schedule
 
 | Class        | Topics           | Before | After/during | Assignments  | Lab
